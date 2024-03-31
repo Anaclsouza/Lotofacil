@@ -19,10 +19,10 @@ Ele oferece três opções de aposta:
 
 ## Como Rodar :
 
-1. **Clone o Repositório:** git clone https://github.com/seu-usuario/lotofacil.git
-2. **Navegue até o Diretório do Projeto:** cd lotofacil
-3. **Compile o Código:**  javac Lotofacil.java
-4. **Execute o Programa:** java Lotofacil
+1. **Clone o Repositório:** `git clone https://github.com/seu-usuario/lotofacil.git`
+2. **Navegue até o Diretório do Projeto:** `cd Lotofacil`
+3. **Compile o Código:**  `javac Lotofacil.java`
+4. **Execute o Programa:** `java Lotofacil`
 
 
 ## Bibliotecas Utilizadas
