@@ -47,6 +47,6 @@ Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-s
 
 ## Autor :
 
-Este programa foi desenvolvido por Ana Clara Nogueira.
+Este programa foi desenvolvido por https: [Ana Clara Nogueira](github.com/Anaclsouza).
 
 
